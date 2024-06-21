@@ -54,7 +54,7 @@ const EmailSection = () => {
         </h5>
         <p className="text-[#120926] mb-4 max-w-md">
           {" "}
-          I'm currently exploring new opportunities and would love to hear from you! Whether you have a question, an exciting opportunity, or just want to say hello, my inbox is always open. I genuinely enjoy connecting with new people and building meaningful relationships, so don't hesitate to reach out. I'll do my very best to respond to you as soon as I can. Looking forward to hearing from you!
+          I am currently exploring new opportunities and would love to hear from you! Whether you have a question, an exciting opportunity, or just want to say hello, my inbox is always open. I genuinely enjoy connecting with new people and building meaningful relationships, so do not hesitate to reach out. I will do my very best to respond to you as soon as I can. Looking forward to hearing from you!
         </p>
         <div className="socials flex flex-row gap-2">
   <Link href="https://github.com/Mudit2003">

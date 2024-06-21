@@ -65,7 +65,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-transparent font-bold bg-clip-text bg-gradient-to-r from-orange-400 to-red-500 text-4xl">About Me</h2>
           <p className="text-base lg:text-lg">
-          Greetings! I'm Mudit Rai, currently in my final year pursuing BTech in Computer Science at NIT Arunachal Pradesh. My focus lies in crafting Flutter applications and delving into the intricacies of machine learning. I am deeply passionate about continuous growth and eagerly explore emerging technologies. Collaborating within team settings fuels my desire to learn and excel. I embrace the title of a Techy Extrovert learner, driven by curiosity and a relentless pursuit of knowledge to forge a rewarding career as a software developer.
+          Greetings! I am Mudit Rai, currently in my final year pursuing BTech in Computer Science at NIT Arunachal Pradesh. My focus lies in crafting Flutter applications and delving into the intricacies of machine learning. I am deeply passionate about continuous growth and eagerly explore emerging technologies. Collaborating within team settings fuels my desire to learn and excel. I embrace the title of a Techy Extrovert learner, driven by curiosity and a relentless pursuit of knowledge to forge a rewarding career as a software developer.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton

@@ -24,7 +24,7 @@ const HeroSection = () => {
         >
           <h1 className="text-[#1f113f] mb-4  text-3xl sm:text-4xl lg:text-6xl lg:leading-normal font-extrabold">
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-red-500 text-4xl sm:text-5xl lg:text-8xl">
-  Hello, I'm{" "}
+  Hello, I am{" "}
 </span>
 
             <br></br>
@@ -47,7 +47,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#1b132a]  text-base sm:text-lg mb-6 lg:text-xl">
-          Hi, I'm Mudit Rai, a final-year BTech (CSE) student at NIT Arunachal Pradesh. I specialize in Flutter app development and have a keen interest in machine learning. Passionate about continuous learning, I love exploring new technologies and aspire to become a software developer.
+          Hi, I am Mudit Rai, a final-year BTech (CSE) student at NIT Arunachal Pradesh. I specialize in Flutter app development and have a keen interest in machine learning. Passionate about continuous learning, I love exploring new technologies and aspire to become a software developer.
           </p>
           <div>
             <Link
